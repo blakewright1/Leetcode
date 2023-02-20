@@ -1,3 +1,5 @@
+// beats 100% for time complexity
+
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
